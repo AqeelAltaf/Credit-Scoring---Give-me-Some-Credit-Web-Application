@@ -1,0 +1,67 @@
+*{
+    font-family: Lato;
+}
+h1{
+    font-weight: 700px;
+    font-size: 5em;
+}
+html{
+    height:100%;
+}
+hr{
+    width:400px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0,0.2); 
+}
+.landing-page{
+    background: url(https://images.unsplash.com/photo-1523871762770-87bda6d9ab58?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=651c083bb21d6ff0ef6eaa4136cbef56&auto=format&fit=crop&w=500&q=60);
+    background-size: cover; 
+    color: white;
+    height:100%;
+}
+.getdata{
+    background: url(https://images.unsplash.com/photo-1500316124030-4cffa46f10f0?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=7c3583c9e0a39944ac510280a55bcc0b&auto=format&fit=crop&w=750&q=80);
+    background-size: cover; 
+    color:black;
+    height:100%;
+}
+.get-data-content{
+    text-align: center; 
+    padding-top :  16%;
+     width :50%; 
+     margin :auto; 
+
+}
+.review input{
+    width: 24%;
+    border-radius: 5px;
+    }
+.review label{
+    text-align: left;
+        width: 74%;
+        
+    }
+.content{
+    padding-top :  25%;
+    text-align: center;
+}
+.sub-btn{
+    width: 30%;
+    margin: 5px;
+    margin-top: 7px;
+}
+
+.result span{
+    width: 60%;
+    border-radius: 10px;
+    color: red;
+    font-size: xx-large;
+    
+    }
+.result label{
+    text-align: left;
+    width: 36%;
+    font-size: large;
+        
+    }
+
